@@ -1,3 +1,3 @@
 # Welcome!
 
-> Click [here](https://reallukee.github.io/)!
+> Click [here](https://reallukee.github.io)!
